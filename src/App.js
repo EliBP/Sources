@@ -1,8 +1,6 @@
 import React from "react";
 import "./styles.css";
 import WebFont from "webfontloader";
-//does this work?
-//how about this?
 //branch testing
 export default function App() {
   return (
