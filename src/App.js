@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css";
-import WebFont from 'webfontloader';
+import WebFont;lkj from 'webfontloader';
 
 export default function App() {
   return (
