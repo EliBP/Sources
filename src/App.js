@@ -11,7 +11,7 @@ export default function App() {
         href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
       />
       <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h2>Start editing hi to see some magic happen!</h2>
     </div>
   );
 }
